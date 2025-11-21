@@ -204,8 +204,8 @@
         <mxCell id="oYJWzsee2E0jVmwqq4pi-76" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="680" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="oYJWzsee2E0jVmwqq4pi-77" value="音频鉴伪" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=25.14;notch=20.57;" vertex="1" parent="1">
-          <mxGeometry x="170" y="690" width="90" height="40" as="geometry" />
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-77" value="音频鉴伪" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=25.14;notch=20.57;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="690" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
