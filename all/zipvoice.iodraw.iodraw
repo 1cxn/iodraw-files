@@ -17,7 +17,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vCjc3XaxLN4q_P5R9SLK" name="第 2 页">
-    <mxGraphModel dx="1026" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1853" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,6 +194,9 @@
         </mxCell>
         <mxCell id="oYJWzsee2E0jVmwqq4pi-72" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=-89;size=0.5;" vertex="1" parent="1">
           <mxGeometry x="535.6" y="360.72" width="31.1" height="167.49" as="geometry" />
+        </mxCell>
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-73" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span class=&quot;ne-text&quot;&gt;声音收集系统的 手机端测的界面，然后 进入 .onnx 模型进行推理出结果，给出可视化分析，如果判断为真，进一步进行 声纹识别认证，判断提供的音频和 待检测的音频是否是同一个人 ，待检测的音频会保密(保密方式手段&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="520" width="560" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
