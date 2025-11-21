@@ -33,7 +33,7 @@
         <mxCell id="oYJWzsee2E0jVmwqq4pi-10" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="610" y="157.505" width="70" height="125" as="geometry" />
         </mxCell>
-        <mxCell id="oYJWzsee2E0jVmwqq4pi-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;size=35;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="oYJWzsee2E0jVmwqq4pi-10">
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-7" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;size=35;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="oYJWzsee2E0jVmwqq4pi-10">
           <mxGeometry x="-32.5" y="34.375" width="125" height="56.25" as="geometry" />
         </mxCell>
         <mxCell id="oYJWzsee2E0jVmwqq4pi-8" value="Decoder" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="oYJWzsee2E0jVmwqq4pi-10">
