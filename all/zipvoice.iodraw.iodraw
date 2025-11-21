@@ -192,6 +192,9 @@
             <mxRectangle width="22" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-71" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="540" y="460" width="50" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
