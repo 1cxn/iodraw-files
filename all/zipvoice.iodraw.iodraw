@@ -51,7 +51,7 @@
         <mxCell id="oYJWzsee2E0jVmwqq4pi-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="70" y="310" width="155" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="oYJWzsee2E0jVmwqq4pi-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="oYJWzsee2E0jVmwqq4pi-16">
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="oYJWzsee2E0jVmwqq4pi-16">
           <mxGeometry width="155" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oYJWzsee2E0jVmwqq4pi-13" value="MultiScaleGatedFusion&amp;nbsp;&lt;div&gt;&amp;nbsp;FrequencyWiseSE&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="oYJWzsee2E0jVmwqq4pi-16">
