@@ -27,8 +27,8 @@
         <mxCell id="oYJWzsee2E0jVmwqq4pi-4" value="多分支频谱结构" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="230" y="180" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="oYJWzsee2E0jVmwqq4pi-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="385" y="195" width="110" height="60" as="geometry" />
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-5" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;size=35;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="187.5" width="125" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
