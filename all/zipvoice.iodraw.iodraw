@@ -207,8 +207,8 @@
         <mxCell id="oYJWzsee2E0jVmwqq4pi-77" value="音频鉴伪" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=25.14;notch=20.57;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="160" y="690" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oYJWzsee2E0jVmwqq4pi-78" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.64;dx=18.86;notch=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="270" y="700" width="40" height="20" as="geometry" />
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-79" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.loud_callout" vertex="1" parent="1">
+          <mxGeometry x="250" y="690" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
