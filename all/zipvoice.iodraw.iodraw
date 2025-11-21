@@ -192,6 +192,9 @@
             <mxRectangle width="22" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="oYJWzsee2E0jVmwqq4pi-72" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
