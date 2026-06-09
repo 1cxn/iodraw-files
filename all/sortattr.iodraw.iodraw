@@ -65,7 +65,7 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-18" value="wav mel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="150" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-19" value="fast conformer x17" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-19" value="fast conformer x17" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
