@@ -47,10 +47,15 @@
           <mxGeometry x="500" y="310" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-uYNhZxsT2TrBdvpe-h-18" target="X-uYNhZxsT2TrBdvpe-h-15">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="540" y="190" />
+              <mxPoint x="438" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-18" value="wav mel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="170" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-19" value="fast conformer x17" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="240" width="120" height="45" as="geometry" />
