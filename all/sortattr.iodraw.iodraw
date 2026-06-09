@@ -72,16 +72,16 @@
           <mxGeometry x="600" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="595" y="390" width="40" height="10" as="geometry" />
+          <mxGeometry x="805" y="322" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="675" y="390" width="40" height="10" as="geometry" />
+          <mxGeometry x="885" y="322" width="40" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-24" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="390" width="10" height="10" as="geometry" />
+          <mxGeometry x="780" y="322" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-25" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="655" y="390" width="10" height="10" as="geometry" />
+          <mxGeometry x="865" y="322" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="602.5" y="322" width="115" height="10" as="geometry" />
