@@ -44,7 +44,7 @@
           <mxGeometry x="380" y="322" width="115" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-17" value="cache dim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="310" width="80" height="30" as="geometry" />
+          <mxGeometry x="307.5" y="320" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-uYNhZxsT2TrBdvpe-h-18" target="X-uYNhZxsT2TrBdvpe-h-15">
           <mxGeometry relative="1" as="geometry">
