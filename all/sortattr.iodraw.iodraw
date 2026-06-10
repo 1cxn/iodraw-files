@@ -174,7 +174,7 @@
           <mxGeometry x="419" y="790" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-68" value="是否出现新的说话人，预测编号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000066;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="790" width="210" height="30" as="geometry" />
+          <mxGeometry x="601.25" y="790" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
