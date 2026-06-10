@@ -167,8 +167,8 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-65" value="sort loss &amp;amp; pil loss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="424" y="700" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-66" value="spk00 : 11000110000&lt;div style=&quot;line-height: 200%;&quot;&gt;spk01 : 01000000011&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;spk03 : 00001100101&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="418" y="740" width="152" height="70" as="geometry" />
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-66" value="spk00 : 11000000000&lt;div style=&quot;line-height: 200%;&quot;&gt;spk01 : 01000000000&lt;/div&gt;&lt;div style=&quot;line-height: 200%;&quot;&gt;spk03 : 00001100000&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584" y="730" width="256" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
