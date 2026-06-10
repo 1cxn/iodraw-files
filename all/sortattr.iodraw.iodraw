@@ -98,8 +98,8 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-32" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="220" width="202.5" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-33" value="预测 spk_num" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="290" y="218" width="100" height="30" as="geometry" />
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-33" value="预测 spk_num" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X-uYNhZxsT2TrBdvpe-h-32">
+          <mxGeometry width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
