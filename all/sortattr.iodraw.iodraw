@@ -158,7 +158,7 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-58" value="FFN + cache 里softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="601.25" y="460" width="107.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-63" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.35;arrowSize=0.42;" vertex="1" parent="1">
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-63" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.43333333333333335;" vertex="1" parent="1">
           <mxGeometry x="490" y="560" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
