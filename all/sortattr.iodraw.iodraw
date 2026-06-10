@@ -98,10 +98,10 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-uYNhZxsT2TrBdvpe-h-30" target="X-uYNhZxsT2TrBdvpe-h-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-30" value="transformer encoder x18" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-30" value="transformer encoder x18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-31" value="FFN + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-31" value="FFN + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="601.25" y="450" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-32" value="" style="swimlane;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
