@@ -168,13 +168,13 @@
           <mxGeometry x="419" y="700" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-66" value="spk00 : 11000000000 --&amp;gt; 0&lt;div style=&quot;line-height: 200%; font-size: 13px;&quot;&gt;spk01 : 01000000000 --&amp;gt; 1&lt;/div&gt;&lt;div style=&quot;line-height: 200%; font-size: 13px;&quot;&gt;spk02 : 00001100000&amp;nbsp; --&amp;gt; 2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;fontColor=#006633;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="584" y="730" width="256" height="70" as="geometry" />
+          <mxGeometry x="609" y="715" width="256" height="70" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-67" value="说话人 vad 时间段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000066;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="419" y="790" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-68" value="是否出现新的说话人，并分配预测编号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#006633;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="587" y="800" width="240" height="30" as="geometry" />
+          <mxGeometry x="612" y="785" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
