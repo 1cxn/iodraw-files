@@ -109,7 +109,7 @@
             <mxPoint x="655" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-31" value="FFN + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-31" value="FFN + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="601.25" y="450" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-32" value="" style="swimlane;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
