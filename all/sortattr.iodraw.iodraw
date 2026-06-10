@@ -160,7 +160,7 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-54" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="322" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-58" value="FFN + sigmoid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-58" value="FFN + cache 里softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="757.5" y="450" width="107.5" height="40" as="geometry" />
         </mxCell>
       </root>
