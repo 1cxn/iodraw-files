@@ -46,6 +46,9 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-15" value="transformer&amp;nbsp;&lt;div&gt;decoder x N&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="387.5" y="240" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-uYNhZxsT2TrBdvpe-h-16" target="X-uYNhZxsT2TrBdvpe-h-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="380" y="322" width="115" height="10" as="geometry" />
         </mxCell>
@@ -149,7 +152,7 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-uYNhZxsT2TrBdvpe-h-54" target="X-uYNhZxsT2TrBdvpe-h-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-54" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-54" value="" style="shape=orEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="560" y="322" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
