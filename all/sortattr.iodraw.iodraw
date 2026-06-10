@@ -158,6 +158,18 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-58" value="FFN + cache 里softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="601.25" y="460" width="107.5" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-60" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="540" as="sourcePoint" />
+            <mxPoint x="710" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-61" value="Label" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="X-uYNhZxsT2TrBdvpe-h-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-62" value="Source" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="X-uYNhZxsT2TrBdvpe-h-60">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
