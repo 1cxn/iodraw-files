@@ -104,8 +104,8 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-30" value="transformer encoder x18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-31" value="FFN + 4个sigmoid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="771.25" y="460" width="107.5" height="40" as="geometry" />
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-31" value="FFN + 4个sigmoid" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="767.5" y="460" width="107.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-32" value="" style="swimlane;startSize=0;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=4;" vertex="1" parent="1">
           <mxGeometry x="307.5" y="220" width="202.5" height="122" as="geometry" />
