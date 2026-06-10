@@ -98,6 +98,9 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-28" value="? dim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="720" y="312" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-uYNhZxsT2TrBdvpe-h-30" target="X-uYNhZxsT2TrBdvpe-h-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-30" value="transformer encoder x18" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="380" width="110" height="40" as="geometry" />
         </mxCell>
@@ -153,7 +156,7 @@
           <mxGeometry x="560" y="322" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-58" value="FFN + cache 里softmax" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="757.5" y="450" width="107.5" height="40" as="geometry" />
+          <mxGeometry x="606.25" y="460" width="107.5" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
