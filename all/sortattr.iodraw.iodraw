@@ -176,6 +176,9 @@
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-68" value="是否出现新的说话人，并分配预测编号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#006633;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="612" y="800" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-69" value="自回归预测 loss" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#660000;fontSize=13;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="680" y="700" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
