@@ -171,7 +171,7 @@
           <mxGeometry x="609" y="715" width="256" height="70" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-67" value="说话人 vad 时间段" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000066;fontSize=13;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="419" y="790" width="130" height="30" as="geometry" />
+          <mxGeometry x="419" y="800" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-68" value="是否出现新的说话人，并分配预测编号" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#006633;fontSize=13;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="612" y="785" width="240" height="30" as="geometry" />
