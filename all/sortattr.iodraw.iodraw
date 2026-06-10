@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="X-uYNhZxsT2TrBdvpe-h-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587.5" y="297" width="372.5" height="53" as="geometry" />
+        </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="X-uYNhZxsT2TrBdvpe-h-1" target="X-uYNhZxsT2TrBdvpe-h-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -100,9 +103,6 @@
         </mxCell>
         <mxCell id="X-uYNhZxsT2TrBdvpe-h-33" value="预测 spk_num" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="X-uYNhZxsT2TrBdvpe-h-32">
           <mxGeometry width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="X-uYNhZxsT2TrBdvpe-h-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="310" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
